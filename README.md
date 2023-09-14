@@ -6,7 +6,7 @@
 
 
 
- 🔭 I’m currently working on HTML CSS Java-Script And React-js
+ 🔭 I’m currently working on HTML CSS Java-Script  React-js PostgressSQL and Python
 
 -🌱 I’m currently learning Hybrid mobile App and Web Development.
 - 👯 I’m looking to collaborate on **GitHub**
