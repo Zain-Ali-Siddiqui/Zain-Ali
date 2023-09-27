@@ -11,5 +11,5 @@
 -🌱 I’m currently learning Hybrid mobile App and Web Development.
 - 👯 I’m looking to collaborate on **GitHub**
 - 💬 Ask me about **MERN**
-- 📫 How to reach me **zainAliSidd@gmail.com** 
+- 📫 How to reach me **zainalisidd@gmail.com** 
   
